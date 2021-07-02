@@ -1,6 +1,6 @@
 {
   "name": "package1",
-  "version": "0.1.0-alpha.0",
+  "version": "0.1.0",
   "description": "> TODO: description",
   "author": "Eugene Vasilchenko <eugene.vasilchenko@ordergroove.com>",
   "homepage": "https://github.com/evasilchenko/continous-deployment/tree/main/packages/package1#readme",
