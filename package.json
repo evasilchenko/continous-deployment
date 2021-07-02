@@ -1,0 +1,22 @@
+{
+  "name": "lerna-test",
+  "version": "0.0.0",
+  "description": "Test prereleases",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evasilchenko/continous-deployment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evasilchenko/continous-deployment/issues"
+  },
+  "homepage": "https://github.com/evasilchenko/continous-deployment#readme",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
