@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0-alpha.1](https://github.com/evasilchenko/continous-deployment/compare/package1@0.2.0-alpha.0...package1@0.2.0-alpha.1) (2021-07-02)
+
+
+### Features
+
+* test ([e4a7dd2](https://github.com/evasilchenko/continous-deployment/commit/e4a7dd27b716d2f5f0231bc6a71590d9f6bd4919))
+
+
+
+
+
 # [0.2.0-alpha.0](https://github.com/evasilchenko/continous-deployment/compare/package1@0.1.0...package1@0.2.0-alpha.0) (2021-07-02)
 
 
