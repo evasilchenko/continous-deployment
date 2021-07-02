@@ -1,6 +1,6 @@
 {
   "name": "package2",
-  "version": "0.1.0",
+  "version": "0.1.1-alpha.0+a79da7d",
   "description": "> TODO: description",
   "author": "Eugene Vasilchenko <eugene.vasilchenko@ordergroove.com>",
   "homepage": "https://github.com/evasilchenko/continous-deployment/tree/main/packages/package2#readme",
@@ -23,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/evasilchenko/continous-deployment/issues"
   },
-  "gitHead": "a188b200e5a3083c17e1107c2d6bcd79eff149d5"
+  "gitHead": "a79da7d23d246220224c1f5eef5d91c3a3e1989a"
 }
